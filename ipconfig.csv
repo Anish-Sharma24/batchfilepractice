@@ -1,0 +1,25 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : Lab01010
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.62(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 24 June 2025 16:27:53
+   Lease Expires . . . . . . . . . . : 25 June 2025 16:27:52
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
