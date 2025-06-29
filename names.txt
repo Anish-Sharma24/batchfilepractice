@@ -1,0 +1,18 @@
+Suman is 6th
+
+Waiting for 2 seconds, press CTRL+C to quit ...10
+Anish is 5th
+
+Waiting for 2 seconds, press CTRL+C to quit ...10
+Abin is 4th
+
+Waiting for 2 seconds, press CTRL+C to quit ...10
+Mrinmay is 3rd
+
+Waiting for 2 seconds, press CTRL+C to quit ...10
+Pallab is 2nd
+
+Waiting for 2 seconds, press CTRL+C to quit ...10
+Sagar is 1st
+
+Waiting for 2 seconds, press CTRL+C to quit ...10
