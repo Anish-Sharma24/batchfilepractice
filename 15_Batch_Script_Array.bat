@@ -14,5 +14,5 @@ for %%b in (%a%) do (
     if %%b==Anish (echo %%b is 5th)
     if %%b==Suman (echo %%b is 6th)
     timeout /t 2 /nobreak
-) >> names.txt
+)
 pause
