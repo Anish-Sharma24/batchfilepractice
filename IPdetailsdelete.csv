@@ -1,0 +1,300 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:43
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:43
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:42
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:43
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:42
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:43
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:42
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:42
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:43
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:43
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:42
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LAB01005
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : 44-8A-5B-B3-F8-8E
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 10.100.100.58(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : 03 July 2025 16:09:38
+   Lease Expires . . . . . . . . . . : 05 July 2025 09:25:42
+   Default Gateway . . . . . . . . . : 10.100.100.1
+   DHCP Server . . . . . . . . . . . : 10.100.100.1
+   DNS Servers . . . . . . . . . . . : 10.100.100.1
+                                       0.0.0.0
+   NetBIOS over Tcpip. . . . . . . . : Enabled
