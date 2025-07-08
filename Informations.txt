@@ -1,0 +1,6 @@
+Anish Sharma, 1000, Kolkata
+Mrinmay Patra, 2000, Pune
+Suman Chowdhury, 3000, Nainital
+Sagar Das, 4000, Pondicherry
+Pallab Gangully, 5000, Rameswaram
+Abin Chakraborty, 6000, Lonavla
