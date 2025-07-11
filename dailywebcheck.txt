@@ -1,0 +1,16 @@
+Pinging www.google.com [142.251.222.164] with 32 bytes of data:
+Ping statistics for 142.251.222.164:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+"The Website is responding fine." 
+Ping request could not find host www.facebook12313.com. Please check the name and try again.
+"The Website has failed to respond." 
+Pinging www.google.com [142.251.43.36] with 32 bytes of data:
+Ping statistics for 142.251.43.36:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+"The Website is responding fine." 
+Ping request could not find host www.facebook12313.com. Please check the name and try again.
+"The Website has failed to respond." 
+Pinging youtube-ui.l.google.com [142.250.183.174] with 32 bytes of data:
+Ping statistics for 142.250.183.174:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+"The Website is responding fine." 
